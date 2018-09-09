@@ -127,4 +127,3 @@ class Guy {
     return false;
   }
 }
-

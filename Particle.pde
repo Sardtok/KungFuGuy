@@ -28,4 +28,3 @@ class Particle {
     ellipse(x, y, size, size);
   }
 }
-
